@@ -172,7 +172,9 @@ article > section > p{
     columns: 2;
     list-style-position: inside;
     list-style-type: '\2714\00A0\00A0';
-    margin: 15px;
+    margin-left: 25px;
+    margin-right: 2px;
+    column-gap: 20px;
     
 }
 
