@@ -76,7 +76,7 @@ nav > a {
     color:  #86e6b1;
     text-decoration:none;
     border-radius: 10px 10px 0px 0px;
-    padding: 0px 5px;
+    padding: 0px 10px;
     padding-top: 3px;
     transition-duration: 0.4s;
 }
