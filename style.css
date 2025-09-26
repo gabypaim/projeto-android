@@ -142,10 +142,11 @@ main > article > p{
 }
 article > section {
     background-color: #C5EBD6;
-   margin: auto;
+   margin: -20px;
     border-radius: 10px;
     box-shadow: -2px 0px 4px rgba(0, 0, 0, 0.295);
-    min-width: 300px;
+    
+    
 }
 
 article > section h1 {
