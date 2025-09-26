@@ -65,9 +65,10 @@ nav {
     background-color: #1A5C38;
     margin: auto;
     padding-bottom: 5px;
-    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.39);
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.151);
     font-size: 16px;
-    padding-left: 5px;
+   
+    
 
 
 }
@@ -75,8 +76,9 @@ nav > a {
     color:  #86e6b1;
     text-decoration:none;
     border-radius: 10px 10px 0px 0px;
-    padding: 3.3px 10px;
+    padding: 0px 5px;
     padding-top: 3px;
+    transition-duration: 0.4s;
 }
 
 nav > a:hover {
